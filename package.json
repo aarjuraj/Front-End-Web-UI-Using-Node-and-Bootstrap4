@@ -1,0 +1,24 @@
+{
+  "name": "front-end-web-ui-using-node-and-bootstrap4",
+  "version": "1.0.0",
+  "description": "This is a practice Project for bootstrap4 and node js",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarjuraj/Front-End-Web-UI-Using-Node-and-Bootstrap4.git"
+  },
+  "author": "Aarju Raj Arya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarjuraj/Front-End-Web-UI-Using-Node-and-Bootstrap4/issues"
+  },
+  "homepage": "https://github.com/aarjuraj/Front-End-Web-UI-Using-Node-and-Bootstrap4#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
